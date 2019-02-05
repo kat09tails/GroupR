@@ -18,7 +18,8 @@ void EthanRocheleauInfo(){
 }
 
 void JanRoddyInfo(){
-   
+   printf("Jan Roddy\n");
+
 }
 
 
