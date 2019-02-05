@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// Kathryn Reese's Information
 void KatRInfo(){
-   printf("Please Complete KatRInfo\n");
+   printf("My name is Kathryn Reese.\n");
 }
 
 void AlecRichardsonInfo(){
