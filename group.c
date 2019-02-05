@@ -5,6 +5,7 @@
 void KatRInfo(){
    printf("My name is Kathryn Reese.\n");
    printf("School Year: Senior\n");
+   printf("Major: Computer Science\n");
 }
 
 void AlecRichardsonInfo(){
