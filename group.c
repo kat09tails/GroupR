@@ -7,6 +7,8 @@ void KatRInfo(){
    printf("School Year: Senior\n");
    printf("Major: Computer Science\n");
    printf("Hobbies: Video Games, Cooking, and Crocheting\n");
+   printf("I grew up in many different places, \nbut I was in Baker City, Oregon for the longest.\n");
+   
 }
 
 void AlecRichardsonInfo(){
