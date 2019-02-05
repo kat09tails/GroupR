@@ -22,6 +22,9 @@ void JanRoddyInfo(){
    printf("Year in School: Postbaccalaureate\n");
    printf("Majors: Political Science and Computer Science\n");
    printf("Hobbies: reading, cooking, and hanging out with my friends and family\n");
+   printf("Hometown: Billings, MT\n");
+
+
 
 
 
