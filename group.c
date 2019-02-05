@@ -4,6 +4,7 @@
 // Kathryn Reese's Information
 void KatRInfo(){
    printf("My name is Kathryn Reese.\n");
+   printf("School Year: Senior\n");
 }
 
 void AlecRichardsonInfo(){
