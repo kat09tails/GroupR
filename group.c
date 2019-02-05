@@ -18,7 +18,10 @@ void EthanRocheleauInfo(){
 }
 
 void JanRoddyInfo(){
-   printf("Jan Roddy\n");
+   printf("Name: Jan Roddy\n");
+   printf("Year in School: Postbaccalaureate\n");
+   
+
 
 }
 
