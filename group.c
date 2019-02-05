@@ -8,7 +8,8 @@ void KatRInfo(){
    printf("Major: Computer Science\n");
    printf("Hobbies: Video Games, Cooking, and Crocheting\n");
    printf("I grew up in many different places, \nbut I was in Baker City, Oregon for the longest.\n");
-   
+   printf("Other: I love the idea of gardening, \nbut plants don't seem to like me.\n");
+   printf("\n");
 }
 
 void AlecRichardsonInfo(){
@@ -34,6 +35,7 @@ int main(void){
    printf("Kathryn Reese\n");
    printf("Alec Richardson\n");
    printf("Marcus Richlie\n");
+   printf("Ethan Rocheleau\n");
    printf("Jan Roddy\n");
 
    printf("\n");
