@@ -18,7 +18,7 @@ void EthanRocheleauInfo(){
 }
 
 void JanRoddyInfo(){
-   printf("Please Complete JanRoddyInfo\n");
+   
 }
 
 
