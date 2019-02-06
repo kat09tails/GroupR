@@ -25,7 +25,13 @@ void EthanRocheleauInfo(){
 }
 
 void JanRoddyInfo(){
-   printf("Please Complete JanRoddyInfo\n");
+   printf("Name: Jan Roddy\n");
+   printf("Year in School: Postbaccalaureate\n");
+   printf("Majors: Political Science and Computer Science\n");
+   printf("Hobbies: reading, cooking, and hanging out with my friends and family\n");
+   printf("Hometown: Billings, MT\n");
+   printf("Anything else: I have a Yorkie-Poodle cross named Charlie. He is the best!\n");
+
 }
 
 
