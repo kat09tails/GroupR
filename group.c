@@ -6,7 +6,7 @@ void KatRInfo(){
 }
 
 void AlecRichardsonInfo(){
-   printf("Please Complete AlecRichardsonInfo\n");
+   printf("******Alec Richardson******\n");
 }
 
 void MarchusRichlieInfo(){
