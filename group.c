@@ -9,6 +9,7 @@ void AlecRichardsonInfo(){
    printf("******Alec Richardson******\n");
    printf("I am a junior.\n");
    printf("My major is computer science.\n");
+   printf("My hobbies include mountain biking, hiking, reading, and music.\n");
 }
 
 void MarchusRichlieInfo(){
