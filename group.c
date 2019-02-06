@@ -8,7 +8,7 @@ void KatRInfo(){
 void AlecRichardsonInfo(){
    printf("******Alec Richardson******\n");
    printf("I am a junior.\n");
-   
+   printf("My major is computer science.\n");
 }
 
 void MarchusRichlieInfo(){
