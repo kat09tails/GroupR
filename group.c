@@ -10,7 +10,7 @@ void AlecRichardsonInfo(){
 }
 
 void MarchusRichlieInfo(){
-   printf("Please Complete MarchusRichlieInfo\n");
+   printf("Marcus 'Tucker' Richlie");
 }
 
 void EthanRocheleauInfo(){
