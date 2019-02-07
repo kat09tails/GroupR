@@ -10,9 +10,11 @@ void AlecRichardsonInfo(){
 }
 
 void MarchusRichlieInfo(){
-   printf("Marcus 'Tucker' Richlie");
-   printf("Sophomore");
-   
+   printf("Name: Marcus 'Tucker' Richlie\n");
+   printf("Year: Sophomore\n");
+   printf("Major: Computer Science/Mathematics\n");
+   printf("Hobbies: I enjoy reading, playing video games\n");
+   printf("math/puzzles, hiking, and going to shows, and much more.\n");
 }
 
 void EthanRocheleauInfo(){
