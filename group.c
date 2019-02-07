@@ -27,6 +27,7 @@ void EthanRocheleauInfo(){
    printf("Hobbies: Computers and reading.\n");
    printf("Hometown: Military brat.\n");
    printf("Anything else: Snowboarding is something i love to do and wish i could do year round.\n");
+   printf("\n");
 }
 
 void JanRoddyInfo(){
