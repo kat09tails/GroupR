@@ -11,6 +11,8 @@ void AlecRichardsonInfo(){
 
 void MarchusRichlieInfo(){
    printf("Marcus 'Tucker' Richlie");
+   printf("Sophomore");
+   
 }
 
 void EthanRocheleauInfo(){
