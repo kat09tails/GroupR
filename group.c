@@ -22,7 +22,14 @@ void AlecRichardsonInfo(){
 }
 
 void MarchusRichlieInfo(){
-   printf("Please Complete MarchusRichlieInfo\n");
+   printf("Name: Marcus 'Tucker' Richlie\n");
+   printf("Year: Sophomore\n");
+   printf("Major: Computer Science/Mathematics\n");
+   printf("Hobbies: I enjoy reading, playing video games\n");
+   printf("math/puzzles, hiking, and going to shows, and much more.\n");
+   printf("Hometown: Right here in Missoula, MT\n");
+   printf("Besides school, not a whole lot going\n");
+
 }
 
 void EthanRocheleauInfo(){
